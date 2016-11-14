@@ -4,7 +4,8 @@
   "description": "Report's in Nodejs with Reportjs",
   "main": "server.js",
   "scripts": {
-    "test": "mocha test/"
+    "test": "mocha test/",
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -24,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/alisonmoura/nodereport/issues"
   },
-  "homepage": "https://github.com/alisonmoura/nodereport#readme"
+  "homepage": "https://github.com/alisonmoura/nodereport#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
