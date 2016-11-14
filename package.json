@@ -1,0 +1,28 @@
+{
+  "name": "nodereport",
+  "version": "1.0.0",
+  "description": "Report's in Nodejs with Reportjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alisonmoura/nodereport.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Javascript",
+    "Express",
+    "Report",
+    "Reportjs",
+    "Node",
+    "Report"
+  ],
+  "author": "Alison Moura <alison.oghino@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alisonmoura/nodereport/issues"
+  },
+  "homepage": "https://github.com/alisonmoura/nodereport#readme"
+}
