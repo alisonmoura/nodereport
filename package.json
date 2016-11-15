@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/alisonmoura/nodereport#readme",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "jsreport": "^1.1.0"
   }
 }
